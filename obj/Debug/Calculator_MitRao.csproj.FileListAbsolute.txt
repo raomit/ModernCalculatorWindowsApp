@@ -1,0 +1,10 @@
+C:\Users\sit436\Documents\DotNetPractiseApps\Calculator_MitRao\bin\Debug\Calculator_MitRao.exe.config
+C:\Users\sit436\Documents\DotNetPractiseApps\Calculator_MitRao\bin\Debug\Calculator_MitRao.exe
+C:\Users\sit436\Documents\DotNetPractiseApps\Calculator_MitRao\bin\Debug\Calculator_MitRao.pdb
+C:\Users\sit436\Documents\DotNetPractiseApps\Calculator_MitRao\obj\Debug\Calculator_MitRao.csproj.AssemblyReference.cache
+C:\Users\sit436\Documents\DotNetPractiseApps\Calculator_MitRao\obj\Debug\Calculator_MitRao.Form1.resources
+C:\Users\sit436\Documents\DotNetPractiseApps\Calculator_MitRao\obj\Debug\Calculator_MitRao.Properties.Resources.resources
+C:\Users\sit436\Documents\DotNetPractiseApps\Calculator_MitRao\obj\Debug\Calculator_MitRao.csproj.GenerateResource.cache
+C:\Users\sit436\Documents\DotNetPractiseApps\Calculator_MitRao\obj\Debug\Calculator_MitRao.csproj.CoreCompileInputs.cache
+C:\Users\sit436\Documents\DotNetPractiseApps\Calculator_MitRao\obj\Debug\Calculator_MitRao.exe
+C:\Users\sit436\Documents\DotNetPractiseApps\Calculator_MitRao\obj\Debug\Calculator_MitRao.pdb
